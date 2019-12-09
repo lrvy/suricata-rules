@@ -59,3 +59,10 @@ Observed DNS Query to public CryptoMining pool Domain (aeon-pool.com)		3017035
 System Information Collection By Trojan    3017036
 ICMP Tunnel Detection Of Type Eight        3017037
 ICMP Tunnel Detection Of Type Zero         3017038
+MALWARE-BACKDOOR Behinder webshell online detected         3016011
+MALWARE-BACKDOOR Behinder webshell online detected         3016012
+MALWARE-BACKDOOR Behinder webshell online detected         3016013
+MALWARE-BACKDOOR Behinder webshell online detected         3016014
+MALWARE-BACKDOOR Behinder webshell online detected         3016015
+MALWARE-BACKDOOR Behinder webshell-jspx online         3016016
+MALWARE-BACKDOOR Behinder webshell-jspx online         3016017
